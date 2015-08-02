@@ -1,0 +1,6 @@
+[nodejs-el7]
+name=nodesource nodejs public repo
+baseurl=https://rpm.nodesource.com/pub/el/7/x86_64/
+enabled=1
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/NODESOURCE-GPG-SIGNING-KEY-EL
